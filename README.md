@@ -29,7 +29,7 @@ To explore the TinDog website, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone [repository-url]
+[git clone [repository-url]](https://github.com/harsharma-0/TinDog_Project.git)
 ```
 
 2. Open the cloned directory and navigate to the `index.html` file.
@@ -44,4 +44,4 @@ This project is licensed under the [MIT License](LICENSE), allowing you to freel
 
 Thank you for exploring the TinDog website! We hope you enjoy connecting your furry friends and making their social lives more exciting. If you have any questions or feedback, feel free to reach out.
 
-*This README was last updated on [Date].*
+*This README was last updated on [08/09/2023].*
